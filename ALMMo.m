@@ -1,4 +1,4 @@
-function [Output]=ALFS(Input,Mode)
+function [Output]=ALMMo(Input,Mode)
 if strcmp(Mode,'Learning')==1
     [Output.MN,Output.A,Output.C,Output.LX,Output.S,Output.Ye]=LearningALM(Input.datain,Input.dataout);
 end
