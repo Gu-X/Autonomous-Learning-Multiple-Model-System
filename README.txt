@@ -1,5 +1,5 @@
 # Autonomous-Learning-Multiple-Model-System
-The MATLAB code for Autonomous Learning Multi-Model System with Gaussian type membership function. 
+The code for Autonomous Learning Multi-Model System with Gaussian type membership function. 
 
 This work is an alternative version of Autonomous Learning Multi-Model System using Gaussian type membership function as described in [a]. 
 The original version of Autonomous Learning Multi-Model System as described in [b] uses Cauchy type membership function.
